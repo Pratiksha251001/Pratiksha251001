@@ -5,7 +5,7 @@
 
 <!-- Subtitle -->
 <div align="center">
-  <h3>👩‍💻 Computer Science Engineering Student | 🚀 Full-Stack MERN Developer | 🤖 AI & ML Enthusiast</h3>
+  <h3>👩‍💻 Computer Science Engineering Student | 🚀 Full-Stack MERN Developer | 🤖 Data Science and AI Task </h3>
 </div>
 
 <!-- Interactive Social & Action Bar -->
@@ -85,16 +85,15 @@
 </div>
 
 ---
-
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratiksha251001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha251001&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Pratiksha251001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pratiksha251001&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pratiksha251001&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksha251001&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <details>
@@ -103,7 +102,7 @@
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiksha251001&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
     <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Pratiksha251001&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-fork.vercel.app/?username=Pratiksha251001&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
   </div>
 </details>
 
