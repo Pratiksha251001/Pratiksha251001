@@ -1,14 +1,11 @@
-
 <!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Pratiksha!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Pratiksha!%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
-<!-- Dynamic Typing Subtitle -->
+<!-- Subtitle -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=Computer+Science+Engineering+Student+👩‍💻;Full-Stack+MERN+Developer+🚀+%7C+AI+%26+ML+Enthusiast+🤖;Building+Impactful+Web+%26+AI+Solutions+✨" alt="Typing SVG" />
-  </a>
+  <h3>👩‍💻 Computer Science Engineering Student | 🚀 Full-Stack MERN Developer | 🤖 AI & ML Enthusiast</h3>
 </div>
 
 <!-- Interactive Social & Action Bar -->
@@ -38,8 +35,8 @@
 
 ### 💫 About Me
 
-<!-- Your Photo on the Right (Automatically pulls your GitHub Profile Photo, or replace src with your own photo URL) -->
-<img align="right" alt="Pratiksha Parise" width="230" src="https://github.com/Pratiksha251001.png" style="border-radius: 50%;" />
+<!-- Updated GitHub Profile Photo with Cache-Buster -->
+<img align="right" alt="Pratiksha Parise" width="220" src="https://github.com/Pratiksha251001.png?v=2" />
 
 👩‍💻 **Computer Science Engineering Student | MERN Stack Developer**
 
@@ -59,22 +56,23 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools *(With Logos)*
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 #### **⚡ Languages & Core**
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c" /></a>
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c" alt="Languages" />
 
 #### **🎨 Frontend & UI/UX**
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,figma" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,figma" alt="Frontend" />
 
 #### **⚙️ Backend & Databases**
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,supabase,sqlite,redis" /></a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,supabase,sqlite,redis" alt="Backend & Databases" />
 
 #### **🤖 AI, Machine Learning & Data Science**
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,opencv,pytorch" /></a>
-<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" alt="AI & ML" />
+<br/><br/>
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
@@ -83,56 +81,39 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### **☁️ Cloud, DevOps & Tools**
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=git,github,docker,gcp,cloudflare,vercel,netlify,postman" /></a>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,cloudflare,vercel,netlify,postman" alt="Cloud & Tools" />
 
 </div>
 
 ---
 
-### 📊 Live GitHub Analytics & Contribution Snake
+### 📊 GitHub Analytics
 
-<!-- Contribution Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratiksha251001/Pratiksha251001/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratiksha251001/Pratiksha251001/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Pratiksha251001/Pratiksha251001/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratiksha251001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha251001&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Pratiksha251001?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Pratiksha251001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/Pratiksha251001?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pratiksha251001&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pratiksha251001&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Pratiksha251001&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <details>
-  <summary><b>📈 View Detailed Contribution Graph, Trophies & Top Repos (Click to Expand)</b></summary>
+  <summary><b>📈 View Activity Graph & Trophies (Click to Expand)</b></summary>
   <br/>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiksha251001&theme=react-dark&hide_border=true&area=true" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiksha251001&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
     <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Pratiksha251001&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" />
-    <br/><br/>
-    <img src="https://github-contributor-stats.vercel.app/api?username=Pratiksha251001&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Pratiksha251001&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
   </div>
 </details>
 
 ---
 
-### 😄 Random Dev Quote & Humor *(Refresh page for a new one!)*
+### ✍️ Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  <br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 <!-- Animated Wave Footer -->
