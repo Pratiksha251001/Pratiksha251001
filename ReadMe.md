@@ -73,7 +73,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,supabase,sqlite,redis" alt="Backend & Databases" />
 
 #### **🤖 AI, Machine Learning & Data Science**
-#### **🤖 AI, Machine Learning & Data Science**
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" alt="AI & ML" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
