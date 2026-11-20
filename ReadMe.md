@@ -10,6 +10,9 @@
 
 <!-- Interactive Social & Action Bar -->
 <div align="center">
+  <a href="https://pratiksha-parise-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/pratiksha-parise/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
